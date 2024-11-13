@@ -25,7 +25,7 @@ namespace AutoUpdate
 
         private string ConfigFileName = @"AutoUpdate.ini";
 
-        private string releaseFileName = "release.txt";
+        private string releaseFileName = "release.json";
 
         private string localtemppath = "\\AutoUpdate";
 
